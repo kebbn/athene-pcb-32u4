@@ -10,4 +10,5 @@
   (lib (name "3D")(type "KiCad")(uri "${KIPRJMOD}/keyboard_parts.pretty/3D")(options "")(descr ""))
   (lib (name "3dmodels")(type "KiCad")(uri "${KIPRJMOD}/keebio-parts.pretty/3dmodels")(options "")(descr ""))
   (lib (name "Imported Libraries")(type "KiCad")(uri "${KIPRJMOD}/Imported Libraries")(options "")(descr ""))
+  (lib (name "Cherry MX")(type "KiCad")(uri "${KIPRJMOD}/Cherry-MX-Breakout-Board-master/libraries/Cherry MX.pretty")(options "")(descr ""))
 )
