@@ -1,4 +1,4 @@
-17117339286875593
+17150391102925271
 Alps_Only
 ALPS-1.5U
 
@@ -6131,6 +6131,62 @@ capacitor tantalum
 0
 2
 2
+Cherry MX
+Cherry-MX_PCB-Mounted
+
+
+0
+2
+2
+Cherry MX
+Cherry-MX_PCB-Mounted_LTST-A683CEGBW_Kailh_Socket
+
+
+0
+6
+6
+Cherry MX
+Cherry-MX_PCB-Mounted_LTST-A683CEGBW_Mill-Max-7305
+
+
+0
+6
+6
+Cherry MX
+Cherry-MX_Plate-Mounted
+
+
+0
+2
+2
+Cherry MX
+Cherry-MX_Plate-Mounted_LTST-A683CEGBW_Kailh_Socket
+
+
+0
+6
+6
+Cherry MX
+Cherry-MX_Plate-Mounted_LTST-A683CEGBW_Mill-Max-7305
+
+
+0
+6
+6
+Cherry MX
+Kailh_Socket
+
+
+0
+2
+2
+Cherry MX
+LTST-A683CEGBW
+
+
+0
+4
+4
 Connector
 Banana_Jack_1Pin
 Single banana socket, footprint - 6mm drill
@@ -45443,6 +45499,20 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+Graphics
+athene
+
+
+0
+0
+0
+Graphics
+kl
+
+
+0
+0
+0
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -45527,6 +45597,13 @@ heatsink
 0
 2
 1
+Imported Libraries
+Kailh_Socket
+
+
+0
+2
+2
 Imported Libraries
 Resonator_SMD_muRata_CSTNExxV-3Pin-p1.2
 SMD Resomator/Filter Murata CSTCE, https://www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf
@@ -48769,6 +48846,48 @@ KailhChoc-1U
 4
 4
 LED_SMD
+1608_LED_A
+
+0603 1608
+0
+2
+2
+LED_SMD
+1608_LED_B
+
+0603 1608
+0
+2
+2
+LED_SMD
+1608_LED_C
+
+0603 1608
+0
+2
+2
+LED_SMD
+1608_LED_C_KA
+
+0603 1608
+0
+2
+2
+LED_SMD
+Duo_LED_1.6x0.8_Kingbright_APHB1608LZGKSURKC
+
+
+0
+4
+4
+LED_SMD
+Kingbright_APBD3224LSURKCGKC_Dual_SMD_LED
+
+
+0
+4
+4
+LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
 LED RGB SPI
@@ -49265,6 +49384,20 @@ LED
 0
 2
 2
+LED_SMD
+Lumex_SSL-LXA228SRC-TR31
+
+
+0
+3
+3
+LED_SMD
+SK6812_Mini
+
+
+0
+13
+4
 LED_THT
 LED_BL-FL7680RGB
 'Piranha' RGB LED, through hole, common anode, 7.62x7.62mm, BGRA pin order, https://cdn-shop.adafruit.com/datasheets/BL-FL7680RGB.pdf
@@ -75692,6 +75825,20 @@ JST, PH2, Lipo
 2
 keyboard_parts
 Kailh_MX_Socket
+
+
+0
+2
+2
+keyboard_parts
+Kailh_MX_Socket (3D)
+
+
+0
+2
+2
+keyboard_parts
+Kailh_MX_Socket (3D) 1_Circle
 
 
 0
